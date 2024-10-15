@@ -1,0 +1,6 @@
+Factura
+Factura Numarul 0
+Client 14
+Cantitate 20
+Pret/Buc 999
+Pret Total 19980

@@ -1,0 +1,200 @@
+Timp curent: 1
+Coada nr: 1 gol
+Coada nr: 2 gol
+Coada nr: 3 gol
+
+Timp curent: 2
+Coada nr: 1 gol
+Coada nr: 2 gol
+Coada nr: 3 gol
+
+Timp curent: 3
+Coada nr: 1 gol
+Coada nr: 2 gol
+Coada nr: 3 gol
+
+Timp curent: 4
+Coada nr: 1 gol
+Coada nr: 2 gol
+Coada nr: 3 gol
+
+Timp curent: 5
+Coada nr: 1 C 9 5 4    
+Coada nr: 2 gol
+Coada nr: 3 gol
+
+Timp curent: 6
+Coada nr: 1 C 9 5 3    
+Coada nr: 2 C 6 6 8    
+Coada nr: 3 C 10 5 7    
+
+Timp curent: 7
+Coada nr: 1 C 9 5 2    C 1 7 10    
+Coada nr: 2 C 6 6 7    C 5 7 9    
+Coada nr: 3 C 10 5 6    C 3 7 5    
+
+Timp curent: 8
+Coada nr: 1 C 9 5 1    C 1 7 10    
+Coada nr: 2 C 6 6 6    C 5 7 9    
+Coada nr: 3 C 10 5 5    C 3 7 5    
+
+Timp curent: 9
+Coada nr: 1 C 9 5 0    C 1 7 10    
+Coada nr: 2 C 6 6 5    C 5 7 9    
+Coada nr: 3 C 10 5 4    C 3 7 5    C 12 9 8    
+
+Timp curent: 10
+Coada nr: 1 C 1 7 9    C 2 10 4    
+Coada nr: 2 C 6 6 4    C 5 7 9    
+Coada nr: 3 C 10 5 3    C 3 7 5    C 12 9 8    
+
+Timp curent: 11
+Coada nr: 1 C 1 7 8    C 2 10 4    
+Coada nr: 2 C 6 6 3    C 5 7 9    
+Coada nr: 3 C 10 5 2    C 3 7 5    C 12 9 8    
+
+Timp curent: 12
+Coada nr: 1 C 1 7 7    C 2 10 4    C 14 12 7    
+Coada nr: 2 C 6 6 2    C 5 7 9    
+Coada nr: 3 C 10 5 1    C 3 7 5    C 12 9 8    
+
+Timp curent: 13
+Coada nr: 1 C 1 7 6    C 2 10 4    C 14 12 7    
+Coada nr: 2 C 6 6 1    C 5 7 9    C 13 13 3    
+Coada nr: 3 C 10 5 0    C 3 7 5    C 12 9 8    
+
+Timp curent: 14
+Coada nr: 1 C 1 7 5    C 2 10 4    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 6 6 0    C 5 7 9    C 13 13 3    C 4 14 5    
+Coada nr: 3 C 3 7 4    C 12 9 8    C 8 14 8    
+
+Timp curent: 15
+Coada nr: 1 C 1 7 4    C 2 10 4    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 8    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 3 7 3    C 12 9 8    C 8 14 8    
+
+Timp curent: 16
+Coada nr: 1 C 1 7 3    C 2 10 4    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 7    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 3 7 2    C 12 9 8    C 8 14 8    C 11 15 6    
+
+Timp curent: 17
+Coada nr: 1 C 1 7 2    C 2 10 4    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 6    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 3 7 1    C 12 9 8    C 8 14 8    C 11 15 6    
+
+Timp curent: 18
+Coada nr: 1 C 1 7 1    C 2 10 4    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 5    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 3 7 0    C 12 9 8    C 8 14 8    C 11 15 6    
+
+Timp curent: 19
+Coada nr: 1 C 1 7 0    C 2 10 4    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 4    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 7    C 8 14 8    C 11 15 6    
+
+Timp curent: 20
+Coada nr: 1 C 2 10 3    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 3    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 6    C 8 14 8    C 11 15 6    
+
+Timp curent: 21
+Coada nr: 1 C 2 10 2    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 2    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 5    C 8 14 8    C 11 15 6    
+
+Timp curent: 22
+Coada nr: 1 C 2 10 1    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 1    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 4    C 8 14 8    C 11 15 6    
+
+Timp curent: 23
+Coada nr: 1 C 2 10 0    C 14 12 7    C 15 13 7    
+Coada nr: 2 C 5 7 0    C 13 13 3    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 3    C 8 14 8    C 11 15 6    
+
+Timp curent: 24
+Coada nr: 1 C 14 12 6    C 15 13 7    
+Coada nr: 2 C 13 13 2    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 2    C 8 14 8    C 11 15 6    
+
+Timp curent: 25
+Coada nr: 1 C 14 12 5    C 15 13 7    
+Coada nr: 2 C 13 13 1    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 1    C 8 14 8    C 11 15 6    
+
+Timp curent: 26
+Coada nr: 1 C 14 12 4    C 15 13 7    
+Coada nr: 2 C 13 13 0    C 4 14 5    C 7 15 9    
+Coada nr: 3 C 12 9 0    C 8 14 8    C 11 15 6    
+
+Timp curent: 27
+Coada nr: 1 C 14 12 3    C 15 13 7    
+Coada nr: 2 C 4 14 4    C 7 15 9    
+Coada nr: 3 C 8 14 7    C 11 15 6    
+
+Timp curent: 28
+Coada nr: 1 C 14 12 2    C 15 13 7    
+Coada nr: 2 C 4 14 3    C 7 15 9    
+Coada nr: 3 C 8 14 6    C 11 15 6    
+
+Timp curent: 29
+Coada nr: 1 C 14 12 1    C 15 13 7    
+Coada nr: 2 C 4 14 2    C 7 15 9    
+Coada nr: 3 C 8 14 5    C 11 15 6    
+
+Timp curent: 30
+Coada nr: 1 C 14 12 0    C 15 13 7    
+Coada nr: 2 C 4 14 1    C 7 15 9    
+Coada nr: 3 C 8 14 4    C 11 15 6    
+
+Timp curent: 31
+Coada nr: 1 C 15 13 6    
+Coada nr: 2 C 4 14 0    C 7 15 9    
+Coada nr: 3 C 8 14 3    C 11 15 6    
+
+Timp curent: 32
+Coada nr: 1 C 15 13 5    
+Coada nr: 2 C 7 15 8    
+Coada nr: 3 C 8 14 2    C 11 15 6    
+
+Timp curent: 33
+Coada nr: 1 C 15 13 4    
+Coada nr: 2 C 7 15 7    
+Coada nr: 3 C 8 14 1    C 11 15 6    
+
+Timp curent: 34
+Coada nr: 1 C 15 13 3    
+Coada nr: 2 C 7 15 6    
+Coada nr: 3 C 8 14 0    C 11 15 6    
+
+Timp curent: 35
+Coada nr: 1 C 15 13 2    
+Coada nr: 2 C 7 15 5    
+Coada nr: 3 C 11 15 5    
+
+Timp curent: 36
+Coada nr: 1 C 15 13 1    
+Coada nr: 2 C 7 15 4    
+Coada nr: 3 C 11 15 4    
+
+Timp curent: 37
+Coada nr: 1 C 15 13 0    
+Coada nr: 2 C 7 15 3    
+Coada nr: 3 C 11 15 3    
+
+Timp curent: 38
+Coada nr: 1 gol
+Coada nr: 2 C 7 15 2    
+Coada nr: 3 C 11 15 2    
+
+Timp curent: 39
+Coada nr: 1 gol
+Coada nr: 2 C 7 15 1    
+Coada nr: 3 C 11 15 1    
+
+Timpul mediu de asteptare: 8.933333
+Timpul mediu de servire: 6.8
+Timpul maxim de asteptare s-a inregistrat la timpul: : 16
+
+Done!
